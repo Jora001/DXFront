@@ -1,9 +1,8 @@
-// src/Home.tsx
 import React from "react";
 
 const Home: React.FC = () => {
   return (
-    <h1>
+    <h1 className="text-red-500">
       Welcome to DX Academy! <br />
       Hello !!!
     </h1>

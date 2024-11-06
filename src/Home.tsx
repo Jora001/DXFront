@@ -5,7 +5,7 @@ const Home: React.FC = () => {
   return (
     <h1>
       Welcome to DX Academy! <br />
-      Hello Varuj!!!
+      Hello !!!
     </h1>
   );
 };
